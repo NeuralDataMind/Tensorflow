@@ -9,4 +9,3 @@ My Tensorflow jounary
 
 
 
-
