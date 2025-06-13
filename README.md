@@ -7,4 +7,3 @@ My Tensorflow jounary
 
 
 
-
