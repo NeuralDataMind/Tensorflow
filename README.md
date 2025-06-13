@@ -10,4 +10,3 @@ My Tensorflow jounary
 
 
 
-
