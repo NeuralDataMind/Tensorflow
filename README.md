@@ -5,4 +5,3 @@ My Tensorflow jounary
   2. CNN
 
 
-
