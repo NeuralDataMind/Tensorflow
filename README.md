@@ -10,5 +10,5 @@ My Tensorflow jounary
  
  
  
- 
+  
  
