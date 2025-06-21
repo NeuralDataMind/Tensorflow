@@ -1,4 +1,4 @@
-8764# Tensorflow
+764# Tensorflow
 
 My Tensorflow jounary
   1. Neural Network
