@@ -3,4 +3,5 @@
 My Tensorflow jounary
   1. Neural Network
   2. Linear Regression
-  3. CNN
+  3. Logistic Regression
+  4. CNN
