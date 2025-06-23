@@ -1,4 +1,4 @@
-08765421# Tensorflow
+0765421# Tensorflow
 
 My Tensorflow jounary
   1. Neural Network
