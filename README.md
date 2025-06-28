@@ -5,4 +5,4 @@ My Tensorflow jounary
   2. Linear Regression
   3. Logistic Regression
   4. CNN 
-  5. RN 
+  5. RNN 
