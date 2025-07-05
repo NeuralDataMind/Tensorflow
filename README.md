@@ -8,3 +8,4 @@ My Tensorflow jounary
   5. RNN 
   6. Functional API
   7. Lego_star_war project
+ 
