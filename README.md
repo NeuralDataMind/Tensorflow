@@ -8,4 +8,5 @@ My Tensorflow jounary
   5. RNN 
   6. Functional API
   7. Lego_star_war project
- 
+  8. Transfer Learning 
+  9. NLP
