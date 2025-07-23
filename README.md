@@ -1,4 +1,4 @@
-0987652# Tensorflow
+098762# Tensorflow
 
 My Tensorflow jounary
   1. Neural Network
