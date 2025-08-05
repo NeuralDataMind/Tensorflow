@@ -1,5 +1,3 @@
----
-
 ## ✨ Suggested README Structure & Content
 
 ### 1. Project Title & Tagline
