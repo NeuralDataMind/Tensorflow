@@ -57,7 +57,7 @@ Explain your file structure:
 
 ```
 /
-├── notebooks/                     # Training & evaluation notebooks
+├── notebooks/                    # Training & evaluation notebooks
 ├── src/                          # Core package and utilities
 ├── scripts/                      # CLI tools for training/inference
 ├── model_export/                 # Export & deployment utilities
